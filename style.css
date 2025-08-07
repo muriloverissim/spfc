@@ -1,1 +1,44 @@
-/* Add styles here */
+body {
+ background-color: oklch(57.7% 0.245 27.325);
+
+ padding-block: 25px;
+
+ font-family: "Nunito", sans-serif;
+
+
+
+
+}
+div {
+
+background-color: floralwhite;
+width: 800px;
+padding: 20px;
+margin-inline: auto;
+border-radius: 15px;
+}
+
+img {
+
+width: 100%;
+
+
+
+}
+
+p {
+
+line-height: 25px;
+
+
+
+}
+
+h1,p {
+
+text-align: center;
+
+
+
+
+}
